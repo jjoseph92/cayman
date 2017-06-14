@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# [](#header-1)Our Team
+# [](#header-1) Our Team
 
 The Gold Stag Consulting team offers you the full support and expertise of professionals with over 20 years combined experience in the IT industry. The combination of technical knowledge along with business consulting skills provide Gold Stag consultants with wing to wing coverage over a wide range of use cases our customers may have. Our team is committed to provide the best experience for our clients and ensure the highest quality in all our engagements.
 
