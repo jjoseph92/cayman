@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Contact Us
 
-_yay_
+goldstagconsulting@gmail.com
 
 [back](./)
